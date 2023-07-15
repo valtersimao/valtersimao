@@ -6,9 +6,6 @@ Meu nome é **Valter Simão**
 - Estou desenvovlendo na linguagem Java ☕
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos✨
 
-### Meios de contato 📫
-simaovalter0@gmail.com
-
-@simaovalter0
+📫 simaovalter0@gmail.com
 
 ![](https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif)
