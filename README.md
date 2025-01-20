@@ -2,8 +2,8 @@
 
 Meu nome é **Valter Simão**
 
-- Estou estudando no [Instituto Federal de Minas Gerais](https://ifmg.edu.br/ourobranco/)📚
-- Estou desenvovlendo na linguagem Java ☕
+- Estou me formando no [Instituto Federal de Minas Gerais](https://ifmg.edu.br/ourobranco/)📚
+- Desenvolvo na linguagem Java ☕ e Python 🐍
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos✨
 
 📫 simaovalter0@gmail.com
