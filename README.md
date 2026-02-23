@@ -1,11 +1,37 @@
-### Boas vindas ao meu perfil 😃
+# 👋 Hey, eu sou o Valter
 
-Meu nome é **Valter Simão**
+🎓 Estudante de Inteligência Artificial  
+💻 Desenvolvedor com base em Python e Java  
+🤖 Interessado em sistemas inteligentes, automação e backend  
 
-- Estou me formando no [Instituto Federal de Minas Gerais](https://ifmg.edu.br/ourobranco/)📚
-- Desenvolvo na linguagem Java ☕ e Python 🐍
-- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos✨
+---
 
-📫 simaovalter0@gmail.com
+## 🚀 Atualmente
 
-![](https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif)
+- Cursando Bacharelado em Inteligência Artificial
+
+---
+
+## 🧠 Tech Stack
+
+**Linguagens:**  
+Python • Java • JavaScript  
+
+**Ferramentas & Conceitos:**  
+Git • GitHub • POO • APIs • Banco de Dados • Linux • IoT  
+
+---
+
+## 📌 Projetos
+
+🔹 **IFPark** – Sistema IoT para automação de estacionamento  
+🔹 **MuuData** – Sistema de gerenciamento em Java com POO  
+
+(mais projetos em breve 👀)
+
+---
+
+## 📫 Contato
+
+📧 simaovalter0@gmail.com  
+🔗 linkedin.com/in/valter-simão-908238318
