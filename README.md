@@ -1,4 +1,4 @@
-# 👋 Hey, eu sou o Valter
+# 👋 Olá, eu sou o Valter
 
 🎓 Estudante de Inteligência Artificial  
 💻 Desenvolvedor com base em Python e Java  
