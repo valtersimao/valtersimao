@@ -1,33 +1,30 @@
-# 👋 Olá, eu sou o Valter
 
-🎓 Estudante de Inteligência Artificial  
-💻 Desenvolvedor com base em Python e Java  
-🤖 Interessado em sistemas inteligentes, automação e backend  
+# Olá, eu sou Valter Simão
 
----
+Sou estudante de Inteligência Artificial na UFOP e Técnico em Informática formado pelo IFMG. Gosto de desenvolver soluções que combinam programação, automação e inteligência artificial para resolver problemas reais.
 
-## 🚀 Atualmente
+Atualmente, meus principais interesses são:
+- Inteligência Artificial
+- Desenvolvimento Backend
+- Java e Python
+- Automação e IoT
+- Engenharia de Software
 
-- Cursando Bacharelado em Inteligência Artificial
+## Sobre mim
 
----
+Durante minha formação, atuei como monitor de Programação I no IFMG, ajudando outros alunos a aprender lógica de programação, Python e Java. Também trabalhei como instrutor de robótica, ensinando programação e tecnologia de forma prática.
 
-## 🧠 Tech Stack
+Essas experiências me ajudaram a desenvolver não apenas habilidades técnicas, mas também comunicação, didática e trabalho em equipe.
 
-**Linguagens:**  
-Python • Java • JavaScript  
+## Tecnologias
 
-**Ferramentas & Conceitos:**  
-Git • GitHub • POO • APIs • Banco de Dados • Linux • IoT  
-
----
-
-## 📌 Projetos
-
-🔹 **IFPark** – Sistema IoT para automação de estacionamento  
-🔹 **MuuData** – Sistema de gerenciamento em Java com POO  
-
-(mais projetos em breve 👀)
+- Java
+- Python
+- C
+- PHP
+- SQL
+- Git e GitHub
+- Linux
 
 ---
 
