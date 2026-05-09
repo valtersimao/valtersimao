@@ -1,4 +1,3 @@
-
 # Olá, eu sou Valter Simão
 
 Sou estudante de Inteligência Artificial na UFOP e Técnico em Informática formado pelo IFMG. Gosto de desenvolver soluções que combinam programação, automação e inteligência artificial para resolver problemas reais.
@@ -31,4 +30,4 @@ Essas experiências me ajudaram a desenvolver não apenas habilidades técnicas,
 ## 📫 Contato
 
 📧 simaovalter0@gmail.com  
-🔗 linkedin.com/in/valter-simão-908238318
+🔗 [LinkedIn](linkedin.com/in/valter-simão-908238318)
