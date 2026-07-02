@@ -5,7 +5,7 @@ Sou estudante de Inteligência Artificial na UFOP e Técnico em Informática for
 Atualmente, meus principais interesses são:
 - Inteligência Artificial
 - Desenvolvimento Backend
-- Java e Python
+- C, Java e Python
 - Automação e IoT
 - Engenharia de Software
 
